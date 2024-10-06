@@ -1,7 +1,0 @@
-C:\Orange\C#\Task 2 3\Task 2 3\bin\Debug\Task 2 3.exe.config
-C:\Orange\C#\Task 2 3\Task 2 3\bin\Debug\Task 2 3.exe
-C:\Orange\C#\Task 2 3\Task 2 3\bin\Debug\Task 2 3.pdb
-C:\Orange\C#\Task 2 3\Task 2 3\obj\Debug\Task 2 3.csproj.AssemblyReference.cache
-C:\Orange\C#\Task 2 3\Task 2 3\obj\Debug\Task 2 3.csproj.CoreCompileInputs.cache
-C:\Orange\C#\Task 2 3\Task 2 3\obj\Debug\Task 2 3.exe
-C:\Orange\C#\Task 2 3\Task 2 3\obj\Debug\Task 2 3.pdb
