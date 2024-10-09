@@ -1,0 +1,7 @@
+C:\Orange\C#\Function2\Function2\bin\Debug\Function2.exe.config
+C:\Orange\C#\Function2\Function2\bin\Debug\Function2.exe
+C:\Orange\C#\Function2\Function2\bin\Debug\Function2.pdb
+C:\Orange\C#\Function2\Function2\obj\Debug\Function2.csproj.AssemblyReference.cache
+C:\Orange\C#\Function2\Function2\obj\Debug\Function2.csproj.CoreCompileInputs.cache
+C:\Orange\C#\Function2\Function2\obj\Debug\Function2.exe
+C:\Orange\C#\Function2\Function2\obj\Debug\Function2.pdb
